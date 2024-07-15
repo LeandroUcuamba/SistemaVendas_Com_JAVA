@@ -1,4 +1,4 @@
-# Projeto de uma loja de calçados - CLAV
+# Projeto de uma loja de calçados
  Este é um projeto que desenvolvi durante o tempo que fiquei isolado devido a covid-19, dada altura sem nada a fazer então decidi desenvolver algo. O projeto foi feito na linguagem JAVA, utilizando POO, DAO e a arquitetura MVC.
  
  ## 🚀 Começando
