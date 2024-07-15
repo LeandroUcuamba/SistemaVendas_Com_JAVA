@@ -12,7 +12,7 @@ Para rodar este software na sua maquina terá que instalar o netbeans e ter o My
 
 ### 🔧 Instalação
 
-- Instalar a IDE NetBeans + XAMPP ou SQLServer;
+- Instalar a IDE NetBeans + XAMPP ou MySQL;
 - Pegar a BD que está no repositório e importar;
 - Att: Drive-Connector.jar precisam estar instalados.
 
